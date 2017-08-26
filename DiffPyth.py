@@ -1,4 +1,4 @@
-
+# -*- coding: utf-8 -*-
 # diff entre 2 fichiers .  On parse le premier ligne par ligne . On recherche chaque ligne dans le deuxieme
 # si c'est trouvé, on supprime la ligne dans le tableau du 2eme
 # si ce n'est pas trouvé, on le met dans un fichier .
